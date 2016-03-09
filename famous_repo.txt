@@ -1,0 +1,7 @@
+gitignore:
+https://github.com/github/gitignore
+
+bootstrap:
+https://github.com/twbs/bootstrap
+
+angularJs:
