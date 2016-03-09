@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jan 13 17:55:48 CST 2016
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1452678937712
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1452678948218
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact cn.o\:freemarker\:jar\:sources\:2.3.19 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/cn/o/freemarker/2.3.19/freemarker-2.3.19-sources.jar
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=

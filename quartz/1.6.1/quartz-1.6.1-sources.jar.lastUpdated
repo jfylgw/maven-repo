@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 25 16:17:48 CST 2015
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1451012621079
+http\://repo.maven.apache.org/maven2/.lastUpdated=1451012621776
+http\://10.10.254.107\:8888/nexus/content/groups/public/.error=Could not transfer artifact cn.o\:quartz\:jar\:sources\:1.6.1 from/to nexus (http\://10.10.254.107\:8888/nexus/content/groups/public)\: connection timed out to http\://10.10.254.107\:8888/nexus/content/groups/public/cn/o/quartz/1.6.1/quartz-1.6.1-sources.jar
+default-http\://10.10.254.107\:8888/nexus/content/groups/public/.lastUpdated=1451031468427
+http\://repo.maven.apache.org/maven2/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=

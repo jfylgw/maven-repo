@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jan 13 17:55:12 CST 2016
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1452678912872
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452390049619
+http\://10.10.254.107\:8888/nexus/content/groups/public/.error=Could not transfer artifact cn.o\:commons-lang\:jar\:sources\:2.5 from/to nexus (http\://10.10.254.107\:8888/nexus/content/groups/public)\: connection timed out to http\://10.10.254.107\:8888/nexus/content/groups/public/cn/o/commons-lang/2.5/commons-lang-2.5-sources.jar
+default-http\://10.10.254.107\:8888/nexus/content/groups/public/.lastUpdated=1452390048462
+http\://repo.maven.apache.org/maven2/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
