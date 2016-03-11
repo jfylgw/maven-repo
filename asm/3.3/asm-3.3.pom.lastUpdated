@@ -1,0 +1,32 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 15:43:42 CST 2016
+default-http\://localhost\:8888/nexus/content/groups/public/.lastUpdated=1457682222526
+http\://localhost\:8888/nexus/content/groups/public/.error=Could not transfer artifact athena\:asm\:pom\:3.3 from/to java.net (http\://localhost\:8888/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8888/nexus/content/groups/public/athena/asm/3.3/asm-3.3.pom
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1457512078965
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.lastUpdated=1457513020202
+file\://D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457679551941
+D\:\\Workspace\\Maven\\repository\\athena/.error=Could not transfer artifact athena\:asm\:pom\:3.3 from/to local (D\:\\Workspace\\Maven\\repository\\athena)\: No connector available to access repository local (D\:\\Workspace\\Maven\\repository\\athena) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Workspace/Maven/repository/athena/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1457669499383
+file\:/D/Workspace/Maven/repository/athena/.error=
+http\://maven.java.net/content/groups/public/.error=
+http\://maven.java.net/content/groups/public/.lastUpdated=1457679132493
+file\:D\:/Workspace/Maven/repository/athena/.lastUpdated=1457512100268
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=
+file\:D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512804568
+default-D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512823986
+file\:D\:\\Workspace\\Maven\\repository\\athena/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457512081617
+https\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.lastUpdated=1457512219030
+http\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1457680221133
+https\://github.com/jfylgw/maven-repo/.error=
+file\://D\:\\Workspace\\Maven\\repository\\athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.lastUpdated=1457512204175
+https\://raw.githubusercontent.com/jfylgw/maven-repo/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
+https\://github.com/jfylgw/maven-repo/.lastUpdated=1457513224591
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.error=
+https\://raw.githubusercontent.com/jfylgw/maven-repo/.lastUpdated=1457513161015

@@ -1,0 +1,30 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 15:44:41 CST 2016
+default-http\://localhost\:8888/nexus/content/groups/public/.lastUpdated=1457682281730
+http\://localhost\:8888/nexus/content/groups/public/.error=Could not transfer artifact athena\:morph\:pom\:1.1 from/to java.net (http\://localhost\:8888/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8888/nexus/content/groups/public/athena/morph/1.1/morph-1.1.pom
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1457512265934
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.lastUpdated=1457513146454
+file\://D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457679552071
+D\:\\Workspace\\Maven\\repository\\athena/.error=Could not transfer artifact athena\:morph\:pom\:1.1 from/to local (D\:\\Workspace\\Maven\\repository\\athena)\: No connector available to access repository local (D\:\\Workspace\\Maven\\repository\\athena) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Workspace/Maven/repository/athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.error=
+http\://maven.java.net/content/groups/public/.error=
+default-https\://repo.maven.apache.org/maven2/.lastUpdated=1457669514343
+http\://maven.java.net/content/groups/public/.lastUpdated=1457679734499
+file\:D\:/Workspace/Maven/repository/athena/.lastUpdated=1457512193238
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=
+file\:D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512804655
+default-D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512824037
+file\:D\:\\Workspace\\Maven\\repository\\athena/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457512195136
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact athena\:morph\:pom\:1.1 from/to apache-maven-repo (https\://repo.maven.apache.org/maven2/)\: No connector available to access repository apache-maven-repo (https\://repo.maven.apache.org/maven2/) of type default using the available factories 
+file\:D/Workspace/Maven/repository/athena/.lastUpdated=1457512219126
+http\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1457680308349
+https\://github.com/jfylgw/maven-repo/.error=Could not transfer artifact athena\:morph\:pom\:1.1 from/to github-maven-repo (https\://github.com/jfylgw/maven-repo/)\: No connector available to access repository github-maven-repo (https\://github.com/jfylgw/maven-repo/) of type default using the available factories 
+file\://D\:\\Workspace\\Maven\\repository\\athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.lastUpdated=1457512204281
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.error=
+default-https\://github.com/jfylgw/maven-repo/.lastUpdated=1457513266612

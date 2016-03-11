@@ -1,0 +1,30 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 15:45:21 CST 2016
+default-http\://localhost\:8888/nexus/content/groups/public/.lastUpdated=1457682321961
+http\://localhost\:8888/nexus/content/groups/public/.error=Could not transfer artifact athena\:xwork-core\:pom\:2.3.4.1 from/to java.net (http\://localhost\:8888/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8888/nexus/content/groups/public/athena/xwork-core/2.3.4.1/xwork-core-2.3.4.1.pom
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1457512369902
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.lastUpdated=1457513210552
+file\://D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457679552151
+D\:\\Workspace\\Maven\\repository\\athena/.error=Could not transfer artifact athena\:xwork-core\:pom\:2.3.4.1 from/to local (D\:\\Workspace\\Maven\\repository\\athena)\: No connector available to access repository local (D\:\\Workspace\\Maven\\repository\\athena) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Workspace/Maven/repository/athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.error=
+http\://maven.java.net/content/groups/public/.error=
+default-https\://repo.maven.apache.org/maven2/.lastUpdated=1457669514407
+http\://maven.java.net/content/groups/public/.lastUpdated=1457679912418
+file\:D\:/Workspace/Maven/repository/athena/.lastUpdated=1457512243254
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=
+file\:D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512804709
+default-D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512824071
+file\:D\:\\Workspace\\Maven\\repository\\athena/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457512244662
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact athena\:xwork-core\:pom\:2.3.4.1 from/to apache-maven-repo (https\://repo.maven.apache.org/maven2/)\: No connector available to access repository apache-maven-repo (https\://repo.maven.apache.org/maven2/) of type default using the available factories 
+file\:D/Workspace/Maven/repository/athena/.lastUpdated=1457512243254
+http\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1457680334327
+https\://github.com/jfylgw/maven-repo/.error=Could not transfer artifact athena\:xwork-core\:pom\:2.3.4.1 from/to github-maven-repo (https\://github.com/jfylgw/maven-repo/)\: No connector available to access repository github-maven-repo (https\://github.com/jfylgw/maven-repo/) of type default using the available factories 
+file\://D\:\\Workspace\\Maven\\repository\\athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.lastUpdated=1457512243395
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.error=
+default-https\://github.com/jfylgw/maven-repo/.lastUpdated=1457513266661

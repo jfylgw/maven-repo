@@ -1,0 +1,32 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 15:44:29 CST 2016
+default-http\://localhost\:8888/nexus/content/groups/public/.lastUpdated=1457682269697
+http\://localhost\:8888/nexus/content/groups/public/.error=Could not transfer artifact athena\:jboss-logging\:pom\:3.1.0.GA from/to java.net (http\://localhost\:8888/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8888/nexus/content/groups/public/athena/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1457512229736
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.lastUpdated=1457513128336
+file\://D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457679552046
+D\:\\Workspace\\Maven\\repository\\athena/.error=Could not transfer artifact athena\:jboss-logging\:pom\:3.1.0.GA from/to local (D\:\\Workspace\\Maven\\repository\\athena)\: No connector available to access repository local (D\:\\Workspace\\Maven\\repository\\athena) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Workspace/Maven/repository/athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.error=
+default-https\://raw.githubusercontent.com/jfylgw/maven-repo/.lastUpdated=1457513243635
+http\://maven.java.net/content/groups/public/.error=
+default-https\://repo.maven.apache.org/maven2/.lastUpdated=1457669514323
+http\://maven.java.net/content/groups/public/.lastUpdated=1457679683869
+file\:D\:/Workspace/Maven/repository/athena/.lastUpdated=1457512175465
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=
+file\:D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512804635
+default-D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512824027
+file\:D\:\\Workspace\\Maven\\repository\\athena/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457512178889
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact athena\:jboss-logging\:pom\:3.1.0.GA from/to apache-maven-repo (https\://repo.maven.apache.org/maven2/)\: No connector available to access repository apache-maven-repo (https\://repo.maven.apache.org/maven2/) of type default using the available factories 
+file\:D/Workspace/Maven/repository/athena/.lastUpdated=1457512219108
+http\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1457680292136
+https\://github.com/jfylgw/maven-repo/.error=Could not transfer artifact athena\:jboss-logging\:pom\:3.1.0.GA from/to github-maven-repo (https\://github.com/jfylgw/maven-repo/)\: No connector available to access repository github-maven-repo (https\://github.com/jfylgw/maven-repo/) of type default using the available factories 
+file\://D\:\\Workspace\\Maven\\repository\\athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.lastUpdated=1457512204261
+https\://raw.githubusercontent.com/jfylgw/maven-repo/.error=Could not transfer artifact athena\:jboss-logging\:pom\:3.1.0.GA from/to github-maven-repo (https\://raw.githubusercontent.com/jfylgw/maven-repo/)\: java.net.ConnectException\: null to https\://raw.githubusercontent.com/jfylgw/maven-repo/athena/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.error=
+default-https\://github.com/jfylgw/maven-repo/.lastUpdated=1457513266601

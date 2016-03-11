@@ -1,0 +1,32 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 15:43:44 CST 2016
+default-http\://localhost\:8888/nexus/content/groups/public/.lastUpdated=1457682224532
+http\://localhost\:8888/nexus/content/groups/public/.error=Could not transfer artifact athena\:aspectj\:pom\:1.6.11 from/to java.net (http\://localhost\:8888/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8888/nexus/content/groups/public/athena/aspectj/1.6.11/aspectj-1.6.11.pom
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1457512087583
+file\://D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457679551945
+D\:\\Workspace\\Maven\\repository\\athena/.error=Could not transfer artifact athena\:aspectj\:pom\:1.6.11 from/to local (D\:\\Workspace\\Maven\\repository\\athena)\: No connector available to access repository local (D\:\\Workspace\\Maven\\repository\\athena) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Workspace/Maven/repository/athena/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1457669503387
+file\:/D/Workspace/Maven/repository/athena/.error=
+http\://maven.java.net/content/groups/public/.error=
+http\://maven.java.net/content/groups/public/.lastUpdated=1457679138598
+file\:D\:/Workspace/Maven/repository/athena/.lastUpdated=1457512100271
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=
+file\:D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512804570
+default-D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512823988
+default-https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.lastUpdated=1457513022350
+file\:D\:\\Workspace\\Maven\\repository\\athena/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457512088900
+https\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.lastUpdated=1457512219034
+http\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1457680223423
+https\://github.com/jfylgw/maven-repo/.error=
+file\://D\:\\Workspace\\Maven\\repository\\athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.lastUpdated=1457512204179
+https\://raw.githubusercontent.com/jfylgw/maven-repo/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
+https\://github.com/jfylgw/maven-repo/.lastUpdated=1457513228944
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.error=Could not transfer artifact athena\:aspectj\:pom\:1.6.11 from/to github-maven-repo (https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository)\: java.net.ConnectException\: null to https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/athena/aspectj/1.6.11/aspectj-1.6.11.pom
+https\://raw.githubusercontent.com/jfylgw/maven-repo/.lastUpdated=1457513164821

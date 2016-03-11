@@ -1,0 +1,32 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 11 15:43:50 CST 2016
+default-http\://localhost\:8888/nexus/content/groups/public/.lastUpdated=1457682230560
+http\://localhost\:8888/nexus/content/groups/public/.error=Could not transfer artifact athena\:commons-beanutils\:pom\:1.7.0 from/to java.net (http\://localhost\:8888/nexus/content/groups/public)\: java.net.ConnectException\: Connection refused\: no further information to http\://localhost\:8888/nexus/content/groups/public/athena/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.lastUpdated=1457512113110
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.lastUpdated=1457513030883
+file\://D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457679551967
+D\:\\Workspace\\Maven\\repository\\athena/.error=Could not transfer artifact athena\:commons-beanutils\:pom\:1.7.0 from/to local (D\:\\Workspace\\Maven\\repository\\athena)\: No connector available to access repository local (D\:\\Workspace\\Maven\\repository\\athena) of type default using the available factories AsyncRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+file\:D\:/Workspace/Maven/repository/athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.error=
+default-https\://raw.githubusercontent.com/jfylgw/maven-repo/.lastUpdated=1457513173947
+http\://maven.java.net/content/groups/public/.error=
+default-https\://repo.maven.apache.org/maven2/.lastUpdated=1457669514231
+http\://maven.java.net/content/groups/public/.lastUpdated=1457679484860
+file\:D\:/Workspace/Maven/repository/athena/.lastUpdated=1457512106839
+https\://repository.jboss.org/nexus/content/repositories/deprecated/.error=
+file\:D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512804579
+default-D\:\\Workspace\\Maven\\repository\\athena/.lastUpdated=1457512823993
+file\:D\:\\Workspace\\Maven\\repository\\athena/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1457512108256
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact athena\:commons-beanutils\:pom\:1.7.0 from/to apache-maven-repo (https\://repo.maven.apache.org/maven2/)\: No connector available to access repository apache-maven-repo (https\://repo.maven.apache.org/maven2/) of type default using the available factories 
+file\:D/Workspace/Maven/repository/athena/.lastUpdated=1457512219043
+http\://repo.maven.apache.org/maven2/.error=
+file\:D/Workspace/Maven/repository/athena/.error=
+http\://59.42.53.226\:8888/nexus/content/groups/public/.lastUpdated=1457680229027
+https\://github.com/jfylgw/maven-repo/.error=
+file\://D\:\\Workspace\\Maven\\repository\\athena/.error=
+file\:/D/Workspace/Maven/repository/athena/.lastUpdated=1457512204191
+https\://raw.githubusercontent.com/jfylgw/maven-repo/.error=Could not transfer artifact athena\:commons-beanutils\:pom\:1.7.0 from/to github-maven-repo (https\://raw.githubusercontent.com/jfylgw/maven-repo/)\: java.net.ConnectException\: null to https\://raw.githubusercontent.com/jfylgw/maven-repo/athena/commons-beanutils/1.7.0/commons-beanutils-1.7.0.pom
+http\://59.42.53.226\:8888/nexus/content/groups/public/.error=
+https\://github.com/jfylgw/maven-repo/.lastUpdated=1457513243645
+https\://raw.githubusercontent.com/jfylgw/maven-repo/master/repository/.error=
